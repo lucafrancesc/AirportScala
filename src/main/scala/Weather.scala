@@ -1,4 +1,4 @@
-class Weather(city: City) {
 
+class Weather(city: String) {
   def condition = "windy"
 }
