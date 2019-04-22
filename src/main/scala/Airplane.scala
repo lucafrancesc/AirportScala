@@ -1,3 +1,1 @@
-class Airplane {
-
-}
+case class Airplane (flying: Boolean = false)

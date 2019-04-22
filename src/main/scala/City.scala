@@ -1,0 +1,1 @@
+case class City(city: String)
