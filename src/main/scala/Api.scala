@@ -1,4 +1,4 @@
-class Api {
-  private val api = " your API key"
+object Api {
+  private val api = ""
   def apiKey = api
 }
